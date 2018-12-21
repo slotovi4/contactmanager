@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import PropTypes from "prop-types";
+import React, { Component } from "react"; //rcc
+import PropTypes from "prop-types"; // impt
 import { Consumer } from "../../../context";
 
 class Contact extends Component {
