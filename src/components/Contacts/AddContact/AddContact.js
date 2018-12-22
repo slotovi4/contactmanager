@@ -48,6 +48,8 @@ class AddContact extends Component {
       errors: {}
     });
 
+    this.props.history.push("/");
+
     dispatch({ type: "ADD_CONTACT", payload: newContact });
   };
 
