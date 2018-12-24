@@ -1,4 +1,4 @@
-import React from "react"; // rafc
+import React from 'react';
 
 export default () => {
   return (
